@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.outer {
+  border: 2px solid black;
+  border-radius: 14px;
+  margin-top: 10px;
+  margin-bottom: 2px;
+  padding: 50px 0px;
+  max-width: 49%;
+}
+
+.img2 {
+  border-radius: 50%;
+}
+
+.next-prev {
+  position: fixed;
+  right: 10%;
+}
+.next-prev span,
+button {
+  padding: 5px 14px;
+}
